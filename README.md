@@ -1,3 +1,12 @@
+# Exploratory Data Analysis
+
+## Course Project 1
+
+This folder contains four R codes to generate four graphs from the data.
+Before running the codes, data file shold be downloaded and extracted in the same folder as the corresponding R codes. Link to the data file can be found in the assignement description below.
+
+
+
 ## Introduction
 
 This assignment uses data from
